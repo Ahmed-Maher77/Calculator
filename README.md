@@ -9,11 +9,13 @@
 ---
 
 ## 💻 Used Technologies
-- HTML5, CSS3 (Grid, Flexbox, Custom Properties, Animations)
-- Vanilla JavaScript (ES6+; ES6 Classes, modular structure)
-- Font Awesome (icons via CDN)
-- Browser APIs: DOM & Event APIs
-No external JS frameworks for optimal performance
+
+- **HTML5** → Provides semantic, structured, and accessible content.  
+- **CSS3 (Grid, Flexbox, Custom Properties, Animations)** → Builds responsive layouts, reusable styles, and smooth visual effects.  
+- **Vanilla JavaScript (ES6+; Classes, Modules)** → Implements core logic with modern, modular, and object-oriented patterns.  
+- **Font Awesome (CDN)** → Adds scalable, lightweight, and professional icons.  
+- **Browser APIs (DOM & Event APIs)** → Enables direct, efficient manipulation of UI elements and interactions without external libraries.  
+- **No external JS frameworks** → Ensures lightweight, fast performance with minimal dependencies.  
 
 ---
 
